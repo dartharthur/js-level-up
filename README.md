@@ -43,7 +43,7 @@ So, without further ado, let's level up!
 
 ## `this` keyword
 
-## Prototypical Inheritance
+## Prototypal Inheritance
 
 ## ES6 Classes
 
@@ -86,5 +86,11 @@ Note that it's entirely possible for tasks to execute in an order that isn't the
 when reading a file from top to bottom.
 
 ### Resources
+
+:fire: : [The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+:star: : [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+
+:sparkles:
 
 ## Promises
